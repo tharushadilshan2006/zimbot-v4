@@ -508,11 +508,11 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: DADYDR,
-hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ǫᴜᴇᴇɴ sʜᴀsʜɪ`,
 hydratedButtons:  [{        
     "urlButton": {
       "displayText": "SUBSCRIBE",
-      "url": "https://www.youtube.com/c/DRIPSOFC"
+      "url": "https://youtube.com/channel/UCwddRRMPWcpFFVDCGwr3QWA"
     }
 }, {
 quickReplyButton: {
@@ -561,11 +561,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
   hydratedTemplate: {
   imageMessage: message.imageMessage,
   hydratedContentText: hg,
-  hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+  hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ǫᴜᴇᴇɴ sʜᴀsʜɪ`,
   hydratedButtons:  [{        
       "urlButton": {
         "displayText": "SUBSCRIBE",
-        "url": "https://www.youtube.com/c/DRIPSOFC"
+        "url": "https://youtube.com/channel/UCwddRRMPWcpFFVDCGwr3QWA"
       }
   }, {
   quickReplyButton: {
@@ -610,11 +610,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
           hydratedTemplate: {
           imageMessage: message.imageMessage,
           hydratedContentText: hg,
-          hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+          hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ǫᴜᴇᴇɴ sʜᴀsʜɪ`,
           hydratedButtons:  [{        
               "urlButton": {
                 "displayText": "SUBSCRIBE",
-                "url": "https://www.youtube.com/c/DRIPSOFC"
+                "url": "https://youtube.com/channel/UCwddRRMPWcpFFVDCGwr3QWA"
               }
           }, {
           quickReplyButton: {
@@ -659,11 +659,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ǫᴜᴇᴇɴ sʜᴀsʜɪ`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/c/DRIPSOFC"
+                  "url": "https://youtube.com/channel/UCwddRRMPWcpFFVDCGwr3QWA"
                 }
             }, {
             quickReplyButton: {
@@ -708,11 +708,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ǫᴜᴇᴇɴ sʜᴀsʜɪ`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/c/DRIPSOFC"
+                  "url": "https://youtube.com/channel/UCwddRRMPWcpFFVDCGwr3QWA"
                 }
             }, {
             quickReplyButton: {
