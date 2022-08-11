@@ -66,7 +66,7 @@ const { isLimit, limitAdd, getLimit, giveLimit, addBalance, kurangBalance, getBa
 //xp and leveling database⧈⧈⧈⧈
 
 //message type
-/* let drips = fs.readFileSync('./Zimbot/drips.jpg') 
+/* let drips = fs.readFileSync('./Zimbot/IMG-20220810-WA0002.jpg') 
 */
 
 //database
